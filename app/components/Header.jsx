@@ -41,7 +41,7 @@ const Header = () => {
         </div>
         <div className='flex flex-wrap justify-center items-center gap-4 mt-4'>
             <motion.a initial={{ y: 30, opacity: 0 }} whileInView={{ y: 0, opacity: 1 }} transition={{ duration: 0.6, delay: 1.4 }}
-            href="https://github.com/AvinashMuppidi" target="_blank" rel="noopener noreferrer"
+            href="https://github.com/Avinash6318" target="_blank" rel="noopener noreferrer"
             className='px-8 py-3 border border-gray-500 rounded-full flex items-center gap-2
              bg-white hover:bg-gray-100 transition dark:bg-transparent dark:text-white dark:hover:bg-white/10'>
                 GitHub
@@ -57,7 +57,7 @@ const Header = () => {
             </motion.a>
 
             <motion.a initial={{ y: 30, opacity: 0 }} whileInView={{ y: 0, opacity: 1 }} transition={{ duration: 0.6, delay: 1.8 }}
-            href="mailto:your@email.com"
+            href="mailto:muppidiavinash6318@email.com"
             className='px-8 py-3 border border-gray-500 rounded-full flex items-center gap-2
              bg-white hover:bg-gray-100 transition dark:bg-transparent dark:text-white dark:hover:bg-white/10' >
                 Email
