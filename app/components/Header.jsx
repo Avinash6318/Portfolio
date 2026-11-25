@@ -49,7 +49,7 @@ const Header = () => {
             </motion.a>
 
             <motion.a initial={{ y: 30, opacity: 0 }} whileInView={{ y: 0, opacity: 1 }} transition={{ duration: 0.6, delay: 1.6 }}
-            href="https://linkedin.com/in/yourusername" target="_blank"  rel="noopener noreferrer"
+            href="www.linkedin.com/in/avinash-muppidi" target="_blank"  rel="noopener noreferrer"
             className='px-8 py-3 border border-gray-500 rounded-full flex items-center gap-2
                 bg-white hover:bg-gray-100 transition dark:bg-transparent dark:text-white dark:hover:bg-white/10'>
                 LinkedIn
